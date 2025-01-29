@@ -28,3 +28,7 @@ Once connected, all aforementioned modules will be controlled remotely with cont
 ## The nitty gritty
 As this is a live implementation, there will be physical implementations as well.
 The Pi CPU and each of its modules will be powered by the vehicle's battery, with protective relays, fuses, and converters in place.
+
+## Contributing
+Collaboration is always appreciated, feel free to reach out to me on LinkedIn!
+https://www.linkedin.com/in/brettlazarine
