@@ -22,7 +22,7 @@ else
 fi
 
 # Go version
-GO_VERSION="1.23.6"
+GO_VERSION="1.24.0"
 
 # Check if Go is already installed
 if command -v go &>/dev/null; then
